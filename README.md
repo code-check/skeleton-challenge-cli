@@ -1,7 +1,11 @@
+<!-- TODO: WARNING! There are many sections marked `TODO` and `{{}}` in this repo. -->
+<!--       - Do all the TODO tasks. -->
+<!--       - Fill out all the `{{}}`s. -->
+<!--       - Remove all `TODO`s and `{{}}`s when complete. -->
 
 # {{Challenge名}}
 
-*これは[codecheck](https://app.code-check.io/openchallenges)のチャレンジです。  
+*これは[codecheck](https://code-check.io/)のチャレンジです。  
 初めての方はまず[ドキュメンテーション](https://code-check.github.io/docs/ja)を一読ください。*
 
 {{Challenge内容に関する背景情報。楽しく且つ明瞭に記載されたい。}}

@@ -1,5 +1,5 @@
 {
-  "TODO:": "add 'main' if necessary. Remove this param.",
+  "TODO:": "add 'main' config if necessary. Remove this row.",
   "editable": [
     ".gitignore",
     "package.json",
@@ -14,9 +14,7 @@
     "challenge.json"
   ],
   "tags": [
-    "プリセット",
-    "プログラミング技術",
-    "{{TODO: enter tags here}}"
+    "プリセット"
   ],
   "cli": [
     "C/C++",
