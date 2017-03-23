@@ -8,7 +8,8 @@
   ],
   "ignores": [
     "main.*",
-    "inspection*"
+    "INSPECTION*",
+    "PULL_REQUEST_TEMPLATE.md"
   ],
   "excludes": [
     "*secret*",
