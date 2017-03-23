@@ -1,0 +1,35 @@
+{
+  "TODO:": "add 'main' if necessary. Remove this param.",
+  "editable": [
+    ".gitignore",
+    "package.json",
+    "answer.md",
+    "codecheck.yml"
+  ],
+  "ignores": [
+    "main.*"
+  ],
+  "excludes": [
+    "*secret*",
+    "challenge.json"
+  ],
+  "tags": [
+    "プリセット",
+    "プログラミング技術",
+    "{{TODO: enter tags here}}"
+  ],
+  "cli": [
+    "C/C++",
+    "C#",
+    "Go",
+    "Java",
+    "NodeJS",
+    "PHP",
+    "Python",
+    "Python3",
+    "Ruby",
+    "Scala"
+  ],
+  "allowNewFile": true,
+  "test": "mocha"
+}
