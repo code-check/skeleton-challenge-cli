@@ -7,7 +7,9 @@
     "codecheck.yml"
   ],
   "ignores": [
-    "main.*"
+    "main.*",
+    "INSPECTION*",
+    "PULL_REQUEST_TEMPLATE.md"
   ],
   "excludes": [
     "*secret*",
