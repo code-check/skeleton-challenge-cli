@@ -1,8 +1,5 @@
 # チャレンジ点検表
 
-## チャレンジ実装場所
-(レポのURLをここにペースト)
-
 ## 全チャレンジ共通項目
 #### READMEの設定
 - [ ] [Readme guidelines](https://github.com/givery-technology/codecheck-contents/blob/master/guidelines/readme-guidelines_ja.md)もしくはクライアント指定のひな形に準じた形式になっているか？
