@@ -2,6 +2,7 @@
 <!--       - Do all the TODO tasks. -->
 <!--       - Fill out all the `{{}}`s. -->
 <!--       - Remove all `TODO`s and `{{}}`s when complete. -->
+<!--       - For more information, see [codecheck-contents CONTRIBUTING.md](https://github.com/givery-technology/codecheck-contents/blob/master/CONTRIBUTING.md) -->
 
 # {{Challenge名}}
 
