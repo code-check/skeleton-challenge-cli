@@ -9,7 +9,7 @@
   "ignores": [
     "main.*",
     "INSPECTION*",
-    "PULL_REQUEST_TEMPLATE.md"
+    "github/*"
   ],
   "excludes": [
     "*secret*",
