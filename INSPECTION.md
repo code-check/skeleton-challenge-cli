@@ -2,7 +2,7 @@
 
 ## 全チャレンジ共通項目
 #### READMEの設定
-- [ ] [Readme guidelines](https://github.com/givery-technology/codecheck-contents/blob/master/guidelines/readme-guidelines_ja.md)もしくはクライアント指定のひな形に準じた形式になっているか？
+- [ ] [Skeleton-challenge-cli](https://github.com/code-check/skeleton-challenge-cli/blob/master/README.md)もしくはクライアント指定のひな形に準じた形式になっているか？
 - [ ] 課題となるプログラムの意図は明確か？
 - [ ] 遊び心のある表記になっているか？
 - [ ] 行数は100行以内か？目標値は70行。
