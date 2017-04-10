@@ -6,7 +6,7 @@
 
 # {{Challenge名}}
 
-*これは[codecheck](http://app.code-check.io/openchallenges)のチャレンジです。  
+*これは[codecheck](https://app.code-check.io/)のチャレンジです。  
 初めての方はまず[チュートリアル](https://app.code-check.io/orgs/codecheck/challenges/77)をご覧ください。*
 
 {{Challenge内容に関する背景情報。楽しく且つ明瞭に記載されたい。}}
