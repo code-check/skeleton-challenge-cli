@@ -5,6 +5,7 @@ const codecheck = require("codecheck");
 const app = codecheck.consoleApp(process.env.APP_COMMAND);
 // TODO: if you have any helper functions, declare them in the `lib` folder.
 const helperFunction = require("./lib.js").helperFunction;
+const prepareDataset = require("./lib.js").prepareDataset;
 
 // TODO: all `{{}}` must be populated before the tests will run successfully.
 //       remember, a good test case suite fulfills the RISES mnemonic.

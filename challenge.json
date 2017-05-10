@@ -2,7 +2,7 @@
   "TODO:": [
     "TODO: add 'main:' and other configs if necessary",
     "TODO: Remove this row.",
-    "TODO: Remove readme if only in Japanese."
+    "TODO: Remove 'readme:' config if only in Japanese."
   ],
   "editable": [
     ".gitignore",
@@ -13,7 +13,8 @@
   "ignores": [
     "main.*",
     "INSPECTION*",
-    ".github/*"
+    ".github/*",
+    "*eslint*"
   ],
   "excludes": [
     "*secret*",
