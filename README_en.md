@@ -2,7 +2,7 @@
 
 # {{Challenge Name}}
 
-*This is a [codecheck](https://code-check.io) challenge. To get started, [see the docs](https://code-check.github.io/docs/en)* :-)  
+*This is a [codecheck](https://code-check.io) challenge. If this is your first time, [check out the tutorial](https://app.code-check.io/orgs/codecheck/challenges/77)* :-)  
 
 {{background information of the challenge. Write clearly, but with humor.}}
 
@@ -30,6 +30,9 @@ See [YOUR_LANGUAGE].md for details on how to build a CLI application.
 $ {{CLI Command}} {{arguments}}
 {{expected output sample}}
  ```
+
+ A number of the expected inputs and outputs are defined in the [test/](./test/) directory.
+ Feel free to refer to these test files while coding your implementation.
 
 ## Answer.md
 In [answer.md](answer.md) write a brief explanation about:

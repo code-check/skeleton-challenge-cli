@@ -16,9 +16,8 @@ module.exports.prepareDataset = function( $datasets, args) {
     //   //do something here
     // }
     if ($datasets[nickname] === undefined){ $datasets[nickname] = {} };
-      $datasets[nickname] = dataset;
-      return $datasets;
-    }
+    $datasets[nickname] = dataset;
+    return $datasets;
   })
 }
 
