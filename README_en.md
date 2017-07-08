@@ -2,7 +2,8 @@
 
 # {{Challenge Name}}
 
-*This is a [codecheck](https://code-check.io) challenge. If this is your first time, [check out the tutorial](https://app.code-check.io/orgs/codecheck/challenges/77)* :-)  
+*This is a [codecheck](https://code-check.io) challenge.　　
+If this is your first time, [check out the tutorial](https://app.code-check.io/orgs/codecheck/challenges/77)* :-)  
 
 {{background information of the challenge. Write clearly, but with humor.}}
 
@@ -14,7 +15,7 @@
  CLI app implementation, tests, input parameters, etc.}}
 
 ##### CLI
-Build the solution as a CLI application that receives arguments from `stdin` and returns the expected output to `stdout`.  
+Build the solution as a CLI application that processes command line arguments and returns the expected output to `stdout`.  
 See [YOUR_LANGUAGE].md for details on how to build a CLI application.
 
 #### Input Rules
