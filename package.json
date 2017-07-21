@@ -5,6 +5,6 @@
   "author": "Givery",
   "devDependencies": {
     "codecheck": "^0.6.0",
-    "chai": "^3.5.0",
+    "chai": "^3.5.0"
   }
 }
