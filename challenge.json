@@ -1,8 +1,8 @@
 {
   "TODO:": [
-    "TODO: add 'main:' and other configs if necessary",
-    "TODO: Remove this row.",
-    "TODO: Remove 'readme:' config if only in Japanese."
+    "TODO: Add 'main:' and other configs if necessary",
+    "TODO: Remove 'readme:' config if only in Japanese.",
+    "TODO: Remove this section."
   ],
   "editable": [
     ".gitignore",
@@ -13,8 +13,6 @@
   "ignores": [
     "main.*",
     "INSPECTION*",
-    ".github/*",
-    "*eslint*"
   ],
   "excludes": [
     "*secret*",
@@ -25,7 +23,7 @@
     "en": "README_en.md"
   },
   "tags": [
-    "プリセット"
+    "言語不問"
   ],
   "cli": [
     "C/C++",

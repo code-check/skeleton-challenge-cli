@@ -3,41 +3,32 @@
 const expect = require("chai").expect;
 const codecheck = require("codecheck");
 const app = codecheck.consoleApp(process.env.APP_COMMAND);
-// TODO: if you have any helper functions, declare them in the `lib` folder.
-const helperFunction = require("./lib.js").helperFunction;
 
-// TODO: all `{{}}` must be populated before the tests will run successfully.
-//       remember, a good test case suite fulfills the RISES mnemonic.
-//       (Readable, Independent, Small, Exhaustive, Speedy)
+// TODO: all tests in this file will only be run after submission. 
+// Add tests here to identify simple if/then implementations and
+// to run tests that you do not want the applicant to see.
 
 describe(`CLI`, () => {
-  let datasets = []
-  let prepareDatasets;
 
   before(() => {
-    // all codecheck commands are run before they are `assert`ed.
-    // this is to improve the readability of console outputs.
-    // all results are returned in `datasets`.
-    // TODO: enter args below.
-    prepareDatasets =  prepareDataset( datasets, ['{{arg1}}', '{{arg2}}'] )
-    .then( datasets => prepareDataset( datasets, ['{{arg1}}', '{{arg2}}'] ))
-    return prepareDatasets
+    // TODO: any data / state preparation scripts here.
   });
 
-  // TODO: enter name of feature below. (ex: Memoizer)
-  describe(`{{feature}}`, () => {
+  // TODO: enter name of feature below. (ex: Cache feature)
+  describe("{{feature}}", () => {
     // TODO: fill it() text with  meaningful description of the expected behavior.
     it(`outputs a non-empty string when {{description of condition}}`, () => {
-      return prepareDatasets.then( datasets => {
-        let result = datasets[{{args}}].result
+      // TODO: enter CLI command args below.
+      return app.codecheck("{{args}}")
+      .then( result => {
         expect(result.stdout).to.be.ok;
         expect(result.stdout[0]).to.be.ok.and.a('string');
       });
     });
 
     it(`outputs header in the expected format when {{description of condition}}`, () => {
-    return prepareDatasets.then( datasets => {
-        let result = datasets[{{args}}].result
+      return app.codecheck("{{args}}")
+      .then( result => {
         let actualHeader = result.stdout[0].trim();
         let expectedHeader = "Subject,Mean"
         expect(actualHeader).to.equal(expectedHeader);
