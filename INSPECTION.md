@@ -41,12 +41,11 @@
 
 #### codecheck.ymlの設定
 - [ ] codecheck.yml は設置されているか？
-  - ローカル受験では challenge.json の内容が見られないため、codecheck.yml ファイルが必要になる
+  - ローカル受験では challenge.json内の設定を取得できないため、codecheck.ymlファイルが必要になる
 - [ ] testの設定は適切か？
   - 普段は`mocha`
 - [ ] codecheck.yml と challenge.json の "test" セクションは一致しているか？
 - [ ] "env" セクションと、その中で "APP_COMMAND" のセクションに記載はあるか？
-
 
 #### answer.mdの設定
 - [ ] answer.mdは設置されているか？
