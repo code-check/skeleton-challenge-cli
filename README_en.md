@@ -19,12 +19,12 @@ Build the solution as a CLI application that processes command line arguments an
 See [YOUR_LANGUAGE].md for details on how to build a CLI application.
 
 #### Input Rules
-- {{入力の詳細}}
-- ...
+- {{Input Specifications}}
+- {{...}}
 
 #### Output Rules
-- {{期待出力の詳細}}
- - ...
+- {{Output Specifications}}
+- {{...}}
 
 #### Sample Behavior
 ```shell
