@@ -2,8 +2,12 @@
 
 ## 全チャレンジ共通項目
 
-#### READMEの設定
 - [ ] [Skeleton-challenge-cli](https://github.com/code-check/skeleton-challenge-cli/blob/master/README.md)もしくはクライアント指定のひな形に準じた形式になっている
+- [ ]  TODOタスクは全て完成したか ("TODO"という表記がレポ内に残っていないか)
+- [ ] 言語が日本語のみの場合、`README_en.md`は削除されているか。
+- [ ] github上で`master`をprotected branchとして設定できている
+
+#### READMEの設定
 - [ ] 課題となるプログラムの意図が明確である
 - [ ] 遊び心のある表記になっている
 - [ ] 行数が100行以内である。目標値は70行。
@@ -35,6 +39,7 @@
     - 指定されたディレクトリ名でプログラムを実装した時の挙動が保証できないため
     - [ ] `INSPECTION.md`,`eslint`設定ファイル及び `.github/`が除外されている
 - [ ] testの設定が適切である(普段は`mocha`)
+- [ ] 言語が日本語のみの場合、`readme`の設定は削除されているか。
 
 #### codecheck.ymlの設定
 - [ ] codecheck.yml が設置されている
@@ -67,9 +72,6 @@
   - [ ] Small 小さいか？各テストは検証できる最小単位の機能を検証している
   - [ ] Exhaustive テスト群は全機能を網羅している
   - [ ] Speedy 実行速度が早い。検証サイクルは小さい方が楽しい。
-
-#### Githubの設定
-- [ ] `master`をprotected branchとして設定できている
 
 #### 機能点検
 - [ ] code-develop でチャレンジとしてインポートできる
