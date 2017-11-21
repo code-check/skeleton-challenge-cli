@@ -17,7 +17,7 @@
     "*eslint*"
   ],
   "excludes": [
-    "*secret*",
+    "*.secret.*",
     "challenge.json"
   ],
   "readme": {
