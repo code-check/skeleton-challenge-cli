@@ -12,7 +12,7 @@
     "solution.*",
   ],
   "excludes": [
-    "*secret*",
+    "*.secret.*",
     "challenge.json"
   ],
   "readme": {

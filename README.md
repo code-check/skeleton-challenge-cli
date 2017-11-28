@@ -1,6 +1,6 @@
 # {{Challenge名}}
 
-*これは[codecheck](https://code-check.io/)のチャレンジです。  
+*これはcodecheckのチャレンジです。  
 初めての方はまず[チュートリアル](https://app.code-check.io/orgs/codecheck/challenges/77)をご覧ください。*
 
 ## ザ・ミッション
