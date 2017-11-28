@@ -1,4 +1,4 @@
-// TODO: enter your sample answer code in a file titled main.*
+// TODO: enter your sample answer code in a file titled solution.*
 //       Use any language that codecheck supports.
 
 main(process.argv);

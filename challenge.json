@@ -1,8 +1,6 @@
 {
   "TODO:": [
-    "TODO: Add 'main:' and other configs if necessary",
     "TODO: Remove 'readme:' config if only in Japanese.",
-    "TODO: Remove this section."
   ],
   "editable": [
     ".gitignore",
@@ -11,8 +9,7 @@
     "codecheck.yml"
   ],
   "ignores": [
-    "main.*",
-    "INSPECTION*"
+    "solution.*",
   ],
   "excludes": [
     "*secret*",
@@ -22,9 +19,6 @@
     "ja": "README.md",
     "en": "README_en.md"
   },
-  "tags": [
-    "言語不問"
-  ],
   "cli": [
     "C/C++",
     "C#",
@@ -37,6 +31,7 @@
     "Ruby",
     "Scala"
   ],
+  "main": "answer.md",
   "allowNewFile": true,
   "test": "mocha"
 }

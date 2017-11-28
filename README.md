@@ -1,15 +1,7 @@
-<!-- TODO: WARNING! There are many sections marked `TODO` and `{{}}` in this repo. -->
-<!--       - Do all the TODO tasks. -->
-<!--       - Fill out all the `{{}}`s. -->
-<!--       - Remove all `TODO`s and `{{}}`s when complete. -->
-<!--       - For more information, see [codecheck-contents CONTRIBUTING.md](https://github.com/givery-technology/codecheck-contents/blob/master/CONTRIBUTING.md) -->
-
 # {{Challenge名}}
 
 *これは[codecheck](https://code-check.io/)のチャレンジです。  
 初めての方はまず[チュートリアル](https://app.code-check.io/orgs/codecheck/challenges/77)をご覧ください。*
-
-{{Challenge内容に関する背景情報。}}
 
 ## ザ・ミッション
 {{１文章で要求されている目標・出力結果を表現する。}}
