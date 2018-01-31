@@ -1,3 +1,3 @@
 env:
-  APP_COMMAND: node main.js
+  APP_COMMAND: node solution.js
 test: mocha

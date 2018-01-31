@@ -11,7 +11,7 @@
     "codecheck.yml"
   ],
   "ignores": [
-    "main.*",
+    "solution.*",
     "INSPECTION*",
     ".github/*",
     "*eslint*"
