@@ -5,6 +5,7 @@ package-lock.json
 __pycache__/
 *.py[cod]
 *$py.class
+*.class
 
 # because macOS is macOS.
 .DS_Store
