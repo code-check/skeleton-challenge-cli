@@ -2,7 +2,7 @@
 
 # {{Challenge Name}}
 
-*This is a [codecheck](https://code-check.io) challenge.　　
+*This is a codecheck challenge.　　
 If this is your first time, [check out the tutorial](https://app.code-check.io/orgs/codecheck/challenges/77)* :-)  
 
 {{background information of the challenge. Write clearly, but with humor.}}
