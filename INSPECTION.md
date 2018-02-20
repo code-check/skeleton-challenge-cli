@@ -22,22 +22,22 @@
 ### `challenge.json`の設定
 - [ ] challenge.json が設置されている
 - [ ] 言語設定が適切である
- - プリセットCLIは [環境ページ](https://app.code-check.io/guide/environments)の内容に準拠すること
- - クライアントチャレンジの場合、クライアント指定の言語になっていること
+  - プリセットCLIは [環境ページ](https://app.code-check.io/guide/environments)の内容に準拠すること
+  - クライアントチャレンジの場合、クライアント指定の言語になっていること
 - [ ] editable の設定が適切である  
- - [ ] 以下が`editable`として設定されている(テンプレートとして組み込まれているファイル)
-  - .gitignore
-  - package.json
-  - codecheck.yml
-  - answer.md
+  - [ ] 以下が`editable`として設定されている(テンプレートとして組み込まれているファイル)
+    - .gitignore
+    - package.json
+    - codecheck.yml
+    - answer.md
 - [ ] excludes の設定が適切である  
- - [ ] challenge.json がexcludeされている
- - [ ] 秘匿すべきテストがexcludeされている
+  - [ ] challenge.json がexcludeされている
+  - [ ] 秘匿すべきテストがexcludeされている
 - [ ] ignores の設定が適切である  
- - [ ] サンプル解答コードが除外されている
- - [ ] サンプル解答コードが一般的に使われているディレクトリ(`/app`など)以外で作られている
-  - 指定されたディレクトリ名でプログラムを実装した時の挙動が保証できないため  
-  - [ ] `INSPECTION.md`,`eslint`設定ファイル及び `.github/`が除外されている
+  - [ ] サンプル解答コードが除外されている
+  - [ ] サンプル解答コードが一般的に使われているディレクトリ(`/app`など)以外で作られている
+    - 指定されたディレクトリ名でプログラムを実装した時の挙動が保証できないため  
+    - [ ] `INSPECTION.md`,`eslint`設定ファイル及び `.github/`が除外されている
 - [ ] testの設定が適切である(普段は`mocha`)
 - [ ] 言語が日本語のみの場合、`readme`の設定は削除されているか
 
