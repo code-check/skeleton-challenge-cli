@@ -48,7 +48,7 @@
 - [ ] codecheck.yml と challenge.json の "test" セクションが一致している
 - [ ] "env" セクションと、その中で "APP_COMMAND" のセクションに記載がある
 
-### answer.mdの設定
+### `answer.md`の設定
 - [ ] answer.md が設置されている
 - [ ] answer.md にチャレンジ特有の要求されている解答説明等に関する記述がある
 - [ ] answer.md に不要な記述が含まれていない
