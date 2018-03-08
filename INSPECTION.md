@@ -6,6 +6,9 @@
 - [ ]  TODOタスクは全て完成したか ("TODO"という表記がレポ内に残っていないか)
 - [ ] 言語が日本語のみの場合、`README_en.md`は削除されているか
 - [ ] github上で`master`をprotected branchとして設定できている
+   - [ ] "Protect this branch" が有効になっている
+   - [ ] "Require pull request reviews before merging" が有効になっている
+   - [ ] "Restrict who can push to this branch" が有効になっている
 
 ### `README.md`の設定
 - [ ] 課題となるプログラムの意図が明確である
@@ -84,4 +87,4 @@
 ### ユーザー受け入れ点検
 - [ ] 第三者に作成した問題を解いてもらった
 - [ ] 実装が容易なfirst step（はじめの一歩）が設けてある
-- [ ] 回答時間が1-3時間だった
+- [ ] 回答時間が2時間以内だった
